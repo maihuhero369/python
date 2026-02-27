@@ -12,4 +12,4 @@ class main:
     lst = [ 23 , 45 , 67 ,89 , 90 , 34 , 56 ]
     obj = PassingList(lst)
     obj.display()
-    obj.modify()            
+    obj.modify()
